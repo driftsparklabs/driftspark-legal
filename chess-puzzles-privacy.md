@@ -1,7 +1,7 @@
 # Privacy Policy — Chess Coach: Puzzles
 
 **Effective date:** 2026-08-13
-**Last updated:** 2026-08-13
+**Last updated:** 2026-08-28
 
 This Privacy Policy describes how the mobile application *Chess Coach: Puzzles*
 (the "App") handles your information. The App is published by Driftspark Labs
@@ -29,19 +29,48 @@ If you have any questions about this Policy, contact us at
 
 ## 1. Information stored on your device
 
-The App stores the following locally, using your device's preferences storage:
+The App stores the following locally, using your device's preferences storage.
+
+**Settings**
 
 - Your theme choice (light / dark / system).
-- Your chosen chess-board color palette.
+- Your chosen chess-board color palette and piece set.
 - Your display-language choice.
 - Whether sound effects are enabled.
 - Whether the daily training reminder and the kings-refilled notification are enabled.
+
+**Progress**
+
 - Your puzzle rating, and how many puzzles you have attempted and solved.
 - Your current streak and your best streak.
-- The identifiers of up to 100 recently solved puzzles, so the App can avoid
-  handing you the same puzzle twice in a row.
+- A record of **every puzzle the App has ever shown you**, each marked as either
+  solved cleanly or not. This is what stops the App from handing you a puzzle you
+  have already seen, and what the review mode uses to offer you a second try at
+  the ones you missed. It is not capped, so over a long time it can grow towards
+  the full set of 100,000 puzzles that ship inside the App.
+- Whether you answered or skipped the one-off question about your chess
+  experience that the App asks on first launch.
+
+**Statistics**
+
+These feed the statistics screen and stay on your device like everything else.
+
+- Per-motif counts: how many "fork" or "back rank" puzzles you attempted, and how
+  many of them you solved.
+- A per-day record covering the last 60 days: puzzles attempted, puzzles solved,
+  and where your rating stood at the end of that day.
+- How long your solves take: the number of solves that were timed, the total time
+  they took, and your fastest one.
+- The rating of the hardest puzzle you have solved.
+- How many puzzles you took a hint on, and how many you revealed the answer to.
+
+**Daily puzzle, kings and purchases**
+
 - The date on which you last completed the daily puzzle.
-- Your "kings" balance and the date of the last daily refill.
+- The time of day at which you solved each of your last five daily puzzles, so
+  the optional reminder can aim at the hour you usually play.
+- Your "kings" balance, and the moment you last lost a king — the free refill,
+  a fixed delay later (currently 24 hours), is worked out from it.
 - Whether you have unlocked an in-app purchase.
 
 This information **never leaves your device** and is not accessible to us. There
@@ -117,8 +146,10 @@ on a new device.
 The optional daily training reminder and kings-refilled notification are
 **local** notifications: they are scheduled and delivered by your own device.
 There is no push server, and no notification requires us to know anything about
-you. You can turn them off in the App's settings, or in your phone's
-notification settings.
+you. The hour the reminder aims at is worked out on your own device from the
+times you solved your recent daily puzzles; nothing about it is sent anywhere.
+You can turn them off in the App's settings, or in your phone's notification
+settings.
 
 ## 6. Children
 
