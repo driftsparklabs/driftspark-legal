@@ -9,7 +9,7 @@ This Privacy Policy describes how the mobile application *Chess Coach: Puzzles*
 
 This policy covers *Chess Coach: Puzzles* only. Our opening trainer,
 *Chess Coach: Openings*, is a separate app with its own policy at
-https://driftsparklabs.github.io/driftspark-legal/privacy-policy.html.
+https://driftsparklabs.github.io/driftspark-legal/chess-openings-privacy.html.
 
 If you have any questions about this Policy, contact us at
 **driftspark.labs.app@gmail.com**.
