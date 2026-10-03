@@ -8,6 +8,7 @@ This repository is intentionally public so it can be referenced from app store l
 
 - [Privacy Policy](chess-openings-privacy.md) — for *Chess Coach: Openings*
 - [Privacy Policy](chess-puzzles-privacy.md) — for *Chess Coach: Puzzles*
+- [Privacy Policy](arrowwords-privacy.md) — for *Arrowwords*
 
 Each app has its own document. Keep them separate: a change to one app's policy
 must not be made by editing the other's file.
