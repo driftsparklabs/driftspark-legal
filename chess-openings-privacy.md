@@ -1,78 +1,79 @@
 # Privacy Policy — Chess Coach: Openings
 
-**Effective date:** 2026-05-12
-**Last updated:** 2026-05-12
+**Last updated:** 2026-10-03
 
-This Privacy Policy describes how the mobile application *Chess Coach: Openings* (the "App") handles your information. The App is published by Driftspark Labs ("we", "us"), an independent developer based in Belgium.
+This policy explains how the Android app *Chess Coach: Openings* (the "App")
+handles personal data. Our puzzle trainer, *Chess Coach: Puzzles*, has its own
+policy at
+https://driftsparklabs.github.io/driftspark-legal/chess-puzzles-privacy.html.
 
-If you have any questions about this Policy, contact us at **driftspark.labs.app@gmail.com**.
+## 1. Who is responsible
 
-## TL;DR
+Driftspark Labs, an independent developer based in Belgium, is the data
+controller. Contact: **driftspark.labs.app@gmail.com**.
 
-- We don't run our own servers and we don't collect personal information about you.
-- The App stores your settings and progress **only on your device**.
-- On Android, we show ads via **Google AdMob**. AdMob may collect technical information (advertising ID, device characteristics, approximate location, IP address) to serve and measure ads. You can control this through your device's ad settings and through the consent prompt the App will show on first launch in the EU.
-- No accounts. No analytics (yet). No selling of your data.
+## 2. What we collect
 
-## 1. Information stored on your device
+Nothing. We run no servers, the App has no accounts and no analytics, and we
+receive no data about you.
 
-The App stores the following locally, using your device's secure preferences storage:
+Your settings and progress are stored only on your device, where we cannot
+access them. If Android backup is switched on, your phone may include them in
+your own Google backup. Uninstalling the App deletes them from the device; if
+backup is on, a later reinstall may restore them from your own backup.
 
-- Your theme choice (light / dark / system).
-- Your chosen chess-board color palette.
-- Whether sounds are enabled.
-- Your high scores per opening and side.
-- Your "kings" balance and the timestamp of the last daily refill.
-- Whether you have unlocked any in-app purchases (when this feature ships).
+The openings ship inside the App, so training sends nothing over the network.
+Reminders are local notifications scheduled by your device.
 
-This information **never leaves your device** and is not accessible to us. Uninstalling the App removes all of it.
+## 3. Advertising (Google AdMob)
 
-## 2. Advertising (Google AdMob)
+The App shows ads through Google AdMob, operated by Google. To serve and measure
+ads and to prevent fraud, Google may process your advertising ID, IP address,
+approximate location derived from it, device and app information, and your
+interactions with ads. Google acts under its own privacy policy:
+https://policies.google.com/privacy. Its list of ad technology partners is at
+https://support.google.com/admob/answer/9012903.
 
-The App uses Google AdMob to show rewarded video ads, which let you earn additional in-app currency ("kings"). AdMob is operated by Google LLC.
+**Legal basis.** In the EU, EEA, UK and Switzerland the App asks for your consent
+before personalized ads are shown (GDPR Art. 6(1)(a)). If you decline,
+non-personalized ads are shown on the basis of legitimate interest in funding
+the App and preventing fraud (Art. 6(1)(f)). You can change or withdraw your
+consent at any time under *Settings → About → Privacy choices*. You can also
+reset or delete your advertising ID in your device settings.
 
-When you watch an ad, AdMob may process:
+If you buy unlimited kings, the App stops requesting ads altogether.
 
-- A non-permanent **advertising identifier** issued by your device (Android Advertising ID / Apple IDFA), which you can reset or disable at any time in your device settings.
-- Your device model, OS version, language, time zone, and coarse location.
-- Your IP address.
-- Information about ad interactions (impressions, clicks, completions).
+## 4. In-app purchases
 
-Google uses this information to deliver ads, measure ad performance, and combat fraud, in accordance with its own privacy policy:
-https://policies.google.com/privacy
+Purchases are processed by Google Play. We never receive your payment details;
+Google only tells the App which items your account owns.
 
-Google also publishes a list of its advertising partners ("ad technology providers"):
-https://support.google.com/admob/answer/9012903
+## 5. Transfers outside the EU
 
-### EU / EEA / UK / Switzerland users
+Google may process ad data in the United States and other countries. Google
+relies on the EU-U.S. Data Privacy Framework and the European Commission's
+standard contractual clauses for these transfers.
 
-If you are located in the EU, EEA, UK, or Switzerland, the App displays a consent message before any personalized advertising is shown, using Google's User Messaging Platform (UMP). You can:
+## 6. Retention
 
-- Consent to personalized ads, or
-- Choose non-personalized ads, in which case ads are served without targeting based on your interests.
+We hold no data, so there is nothing for us to keep or delete. Google retains ad
+data according to its own policy.
 
-You can change your choice at any time through the *Settings → Privacy choices* option inside the App.
+## 7. Your rights
 
-## 3. In-app purchases (future)
+Under the GDPR you have the right to access, rectify, erase, restrict and port
+your personal data, to object to processing, and to withdraw consent. Because
+the only processing is done by Google, requests about ad data are best sent to
+Google through the link above; we will help if you contact us. You may also
+lodge a complaint with the Belgian Data Protection Authority:
+https://www.dataprotectionauthority.be.
 
-If and when in-app purchases are enabled, they are processed by **Google Play Billing**. We never receive or store your payment details — Google handles the transaction. We only learn that a specific purchase was completed by your account, so we can unlock the corresponding entitlement on your device.
+## 8. Children
 
-## 4. Children
+The App is not directed at children under 13, and we do not knowingly collect
+data from them.
 
-The App is not directed at children under 13 (or the equivalent minimum age in your country). We do not knowingly collect personal information from children. If you believe a child has provided information through the App, please contact us so we can investigate.
+## 9. Changes
 
-## 5. Your rights (GDPR)
-
-If you are in the EU/EEA, you have the right to access, correct, delete, restrict the processing of, or port your personal data, and to object to processing. Because we do not collect personal information directly, most of these rights apply to data held by Google AdMob — please refer to Google's privacy policy linked above for the relevant request channels.
-
-You also have the right to lodge a complaint with the Belgian Data Protection Authority (*Gegevensbeschermingsautoriteit / Autorité de protection des données*) at https://www.dataprotectionauthority.be.
-
-## 6. Changes
-
-We may update this Privacy Policy from time to time. Material changes will be communicated through the App. The "Last updated" date at the top reflects the most recent revision.
-
-## 7. Contact
-
-Driftspark Labs
-Belgium
-Email: **driftspark.labs.app@gmail.com**
+If this policy changes, the new version is published at this address with an
+updated date.
