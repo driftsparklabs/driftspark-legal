@@ -1,6 +1,6 @@
 # Privacy Policy — Arrowwords
 
-**Last updated:** 2026-10-03
+**Last updated:** 2026-10-06
 
 This policy explains how the Android app *Arrowwords* (the "App") handles
 personal data. Our chess apps have their own policies.
@@ -22,11 +22,17 @@ them.
 
 The puzzles ship inside the App, so solving them sends nothing over the network.
 
+When you install the App from a friend's challenge link, Google Play passes the
+challenge in that link (the puzzle id and your friend's time and stars) to the
+App on its first start (Play Install Referrer). The App reads it on your device
+only, to open that puzzle.
+
 ## 3. Advertising (Google AdMob)
 
-The App shows ads through Google AdMob, operated by Google: banners on menu and
-result screens, and optional video ads that give extra hints. No ads are shown
-while you solve a puzzle. To serve and measure ads and to prevent fraud, Google
+The App shows ads through Google AdMob, operated by Google: on the menu screens,
+on the results screen after a solved puzzle, and inside the popups for hints
+and for starting a puzzle over. Apart from the optional video ads you can
+choose to watch for extra hints, the App shows no full-screen ads. To serve and measure ads and to prevent fraud, Google
 may process your advertising ID, IP address, approximate location derived from
 it, device and app information, and your interactions with ads. Google acts
 under its own privacy policy: https://policies.google.com/privacy. Its list of
