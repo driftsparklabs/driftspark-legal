@@ -1,6 +1,6 @@
 # Privacy Policy — Chess Coach: Openings
 
-**Last updated:** 2026-10-03
+**Last updated:** 2026-10-24
 
 This policy explains how the Android app *Chess Coach: Openings* (the "App")
 handles personal data. Our puzzle trainer, *Chess Coach: Puzzles*, has its own
@@ -9,8 +9,7 @@ https://driftsparklabs.github.io/driftspark-legal/chess-puzzles-privacy.html.
 
 ## 1. Who is responsible
 
-Driftspark Labs, an independent developer based in Belgium, is the data
-controller. Contact: **driftspark.labs.app@gmail.com**.
+Driftspark Labs is the data controller. Contact: **driftspark.labs.app@gmail.com**.
 
 ## 2. What we collect
 

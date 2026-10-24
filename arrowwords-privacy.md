@@ -1,14 +1,13 @@
 # Privacy Policy — Arrowwords
 
-**Last updated:** 2026-10-06
+**Last updated:** 2026-10-24
 
 This policy explains how the Android app *Arrowwords* (the "App") handles
 personal data. Our chess apps have their own policies.
 
 ## 1. Who is responsible
 
-Driftspark Labs, an independent developer based in Belgium, is the data
-controller. Contact: **driftspark.labs.app@gmail.com**.
+Driftspark Labs is the data controller. Contact: **driftspark.labs.app@gmail.com**.
 
 ## 2. What we collect
 
